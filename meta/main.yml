@@ -13,5 +13,5 @@ galaxy_info:
     - molecule
 
 dependencies:
-  - {role: jsecchiero.mysql-innobackupex, version: 1.0.2}
+  - {role: jsecchiero.mysql-innobackupex, version: 1.0.5}
   # List your role dependencies here, one per line.
